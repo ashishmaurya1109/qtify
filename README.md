@@ -40,4 +40,25 @@ Top Albums Carousel View (Conditional Rendering)
 ![image](https://github.com/ashishmaurya1109/Qtify/assets/90845953/5d0065bd-4f3f-45d6-a39d-082e821d853c)
 Top Albums Grid View (Conditional Rendering)
 
+Songs Section
+Scope of work
+Created a reusable Filters component, using Material-UI Tabs for a seamless and interactive filtering experience
+Utilized Axios to fetch the genre options and song data served by the backend, and performed error handling for the same.
+Implemented conditional rendering logic to display filter options within the Section component exclusively in the Songs section.
+Skills used
+ReactJS, Module-scoped CSS, API Integration and Data Handling, Condition Rendering, Component Reusability, Customizing Third-Party Components
+
+Image(s)
+
+![image](https://github.com/ashishmaurya1109/Qtify/assets/90845953/2cae7847-d584-4d73-b40c-6162903cf778)
+Songs Section reusing the Section component as Albums Section but includes Tab as well
+
+![image](https://github.com/ashishmaurya1109/Qtify/assets/90845953/787c0a1f-0685-4914-a5f2-6fab9d5bd1c1)
+Songs Section (now filtered as per Jazz genre)
+
+Deploy the QTify website
+Scope of Work
+Deployed the Qtify React app to Vercel by importing the project repository from GitHub.
+Skills used
+Deployment, Vercel
 
